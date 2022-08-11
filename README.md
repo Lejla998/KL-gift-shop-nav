@@ -1,2 +1,2 @@
 # KL-gift-shop-nav
-Navigation app for a gift shop.
+Landing page for a gift shop.
